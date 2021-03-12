@@ -6,7 +6,7 @@ Design files for [futureland](https://futureland.tv)
 
 ## Download
 
-You can't download this directly because this repo uses git-lfs, instead:
+You can download individual files, but you can't download the whole repo directly because this repo uses git-lfs. Instead:
 
 1. Install git-lfs (https://git-lfs.github.com)
 
